@@ -1,0 +1,38 @@
+# Copyright (C) 2017 Mikael Carlavan <contact@mika-carl.fr>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#
+# Générique
+#
+
+# Module label 'ModuleSaveMailName'
+ModuleSaveMailName = Archivage pièces jointes
+# Module description 'ModuleSaveMailDesc'
+ModuleSaveMailDesc = Module permettant d'archiver les pièces jointes des emails envoyés
+
+#
+# Page À propos
+#
+About = À propos
+SaveMailAbout = À propos du module
+SaveMailAboutPage = Page à propos du module
+SaveMailAboutDescLong = Ce module a été développé par <a href="http://www.mikael-carlavan.fr">Mikael Carlavan</a> pour <a href="https://www.am-consultant.fr">AM Consultants</a>.
+
+# ChangeLog
+SaveMailChangeLog = ChangeLog
+SaveMailChangeLogVersion = Version
+SaveMailChangeLogDate = Date
+SaveMailChangeLogUpdates = Modification apportées
+SaveMailFirstVersion = Première version
